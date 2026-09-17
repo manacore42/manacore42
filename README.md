@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Ren Aster (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-<!--
-**manacore42/manacore42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ╱|、
+(˚ˎ 。7  
+ |、˜〵          
+じしˍ,)ノ
 
-Here are some ideas to get you started:
+## Currently Learning DEVOPS 
+- Python
+- Go
+- Linux
+- AWS
+- Docker
+- Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects 
+
+I'm using this GitHub to document what I build/projects along the way.
+
+## Links
+
+I'm currently working on [Boot.dev](https://www.boot.dev/u/manacore42).
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5648b1b3-113a-4525-928f-9b3ef05b4280/thumbnail" >
+</p>
