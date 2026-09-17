@@ -1,9 +1,10 @@
 # Hey, I'm Ren Aster (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
+'''
   ╱|、
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
+'''
 
 ## Currently Learning DEVOPS 
 - Python
